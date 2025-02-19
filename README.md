@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @juliie-d
+- 👀 I’m interested in becoming a full-stack dev
+- 🌱 I’m currently learning: html/css, JavaScript, ,Php
