@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @juliie-d
-- 👀 I’m interested in becoming a full-stack dev
+
